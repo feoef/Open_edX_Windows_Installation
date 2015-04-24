@@ -9,7 +9,7 @@ Open edX is the software that powers edX-related online learning websites, such 
 Open edX includes a:
  
 - Learning management system (LMS) which allows users to register for and take courses.
-- Content management system (CMS), called Studio, which allows authors to develop and publish content.
+- Content management system (CMS) called Studio which allows authors to create content.
 
 The Open edX environment has been built on open source software. Open source software is software that has been licensed to be used by the general public for free.
 
