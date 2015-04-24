@@ -44,13 +44,13 @@ The Process
 
    cd themes
    
-   get clone https://github.com/Stanford-Online/edx-theme.git default
+   git clone https://github.com/Stanford-Online/edx-theme.git default
 
 10. Recompile the edX assets:
 
     cd /edx/app/edxapp/edx-platform
    
-    paver update_assets lms --settings-aws
+    paver update_assets lms --settings=aws
 
 Upon successful completing of the above steps, you will see the Stanford Theme upon restarting the web server.
 
